@@ -12,7 +12,7 @@
     "pty.js": "^0.3.1",
     "socket.io": "^2.1.1",
     "typescript": "^3.2.0-dev.20181103",
-    "xterm": "^3.8.0"
+    "xterm": "^3.8.1"
   },
   "devDependencies": {},
   "author": "david karapetyan",
